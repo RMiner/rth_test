@@ -1,0 +1,10 @@
+site_name: SureAboutThat
+pages:
+    - About: about.md
+    - License: license.md
+
+#site_url: http://boo.hoo
+#repo_url: https://github.com/ocopea
+#extra_css: [extra.css]
+theme: readthedocs
+
